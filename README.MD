@@ -26,10 +26,10 @@ This project is a Template for sending E-mails using PHPMailer Library of PHP.
 5. Configure SMTP settings:
     - Open the `send.php` file located in the root directory of this project.
     - Set you E-mail in:
-    $mail->Username = '';
-    $mail->setFrom('');
+    `$mail->Username = '';`
+    `$mail->setFrom('');`
     - Set App Password here:
-    $mail->Password = '';
+    `$mail->Password = '';`
 
 6. Access the project in your web browser:
    
